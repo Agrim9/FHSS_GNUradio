@@ -11,4 +11,5 @@ Pre-Requisite Libraries :-
   6. sudo apt-get install cppunit-dev
   7. sudo apt-get install gnuradio-dev
 
-Import CMakeList.txt inside the lib folder, and change the names of .cc files to .cpp/.py wherever required. Also, add a blank file blank.cpp in libs/ to ensure smooth running. 
+Import CMakeList.txt inside the lib folder, and change the names of .cc files to .cpp/.py wherever required. Also, add a blank file blank.cpp in libs/ to ensure smooth running. Add blank.cpp wherever in the CMakeLists.txt too (or just import from mine)
+

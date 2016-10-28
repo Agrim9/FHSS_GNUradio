@@ -13,3 +13,6 @@ Pre-Requisite Libraries :-
 
 Import CMakeList.txt inside the lib folder, and change the names of .cc files to .cpp/.py wherever required. Also, add a blank file blank.cpp in libs/ to ensure smooth running. Add blank.cpp wherever in the CMakeLists.txt too (or just import from mine)
 
+For including your custom made block in grc, add the path to the config file located at /etc/gnuradio/conf.d and write the path of your "build" directory in the local blocks section in the file.
+
+Then you are good to go :)

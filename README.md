@@ -16,3 +16,9 @@ Import CMakeList.txt inside the lib folder, and change the names of .cc files to
 For including your custom made block in grc, add the path to the config file located at /etc/gnuradio/conf.d and write the path of your "build" directory in the local blocks section in the file.
 
 Then you are good to go :)
+
+Useful Links for reference:-
+
+http://gnuradio.org/redmine/projects/gnuradio/wiki/Guided_Tutorial_GNU_Radio_in_Python
+
+http://gnuradio.org/redmine/projects/gnuradio/repository/entry/gr-blocks/python/blocks/qa_block_gateway.py

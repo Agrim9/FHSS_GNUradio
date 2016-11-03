@@ -1,0 +1,5 @@
+test_tutorial 2 0.00291705
+qa_multiply_py_ff 2 0.098955
+qa_square_ff 0 0
+---
+qa_square_ff

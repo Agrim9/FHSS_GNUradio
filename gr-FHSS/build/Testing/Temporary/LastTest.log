@@ -1,0 +1,40 @@
+Start testing: Nov 05 08:30 IST
+----------------------------------------------------------
+1/2 Testing: test_FHSS
+1/2 Test: test_FHSS
+Command: "/bin/sh" "/home/agrim/Desktop/FHSS_Pro/gr-FHSS/build/lib/test_FHSS_test.sh"
+Directory: /home/agrim/Desktop/FHSS_Pro/gr-FHSS/build/lib
+"test_FHSS" start time: Nov 05 08:30 IST
+Output:
+----------------------------------------------------------
+
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_FHSS" end time: Nov 05 08:30 IST
+"test_FHSS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: qa_freq_selector
+2/2 Test: qa_freq_selector
+Command: "/bin/sh" "/home/agrim/Desktop/FHSS_Pro/gr-FHSS/build/python/qa_freq_selector_test.sh"
+Directory: /home/agrim/Desktop/FHSS_Pro/gr-FHSS/build/python
+"qa_freq_selector" start time: Nov 05 08:30 IST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   1.73 sec
+----------------------------------------------------------
+Test Passed.
+"qa_freq_selector" end time: Nov 05 08:30 IST
+"qa_freq_selector" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Nov 05 08:30 IST

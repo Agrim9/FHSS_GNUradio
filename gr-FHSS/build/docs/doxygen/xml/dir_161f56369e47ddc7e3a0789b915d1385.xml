@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_161f56369e47ddc7e3a0789b915d1385" kind="dir">
+    <compoundname>FHSS</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/agrim/Desktop/FHSS_Pro/gr-FHSS/include/FHSS/"/>
+  </compounddef>
+</doxygen>

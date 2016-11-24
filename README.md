@@ -17,8 +17,8 @@ We've built blocks to send PM modulated waves over 8 and 64 different frequencie
 
 ## Running the code on your PC's GNUradio:-
 
--> To install and use the blocks in GNUradio, clone the repository, make build folder in each block's directory, copy the compile.sh in the created build folder, and run compile.sh from the build folder of each block. 
--> If you've installed GNUradio directly from the git repository, this should suffice, but if not, you will have to do a little more to get the blocks on GNUradio. Please follow Troubleshooting steps mentioned at end. By the end of troubleshooting, you should get 4 blocks : "FHSS_mod_64/8 and FHSS_demod_64/8" in your PC's GNUradio.
+* To install and use the blocks in GNUradio, clone the repository, make build folder in each block's directory, copy the compile.sh in the created build folder, and run compile.sh from the build folder of each block. 
+* If you've installed GNUradio directly from the git repository, this should suffice, but if not, you will have to do a little more to get the blocks on GNUradio. Please follow Troubleshooting steps mentioned at end. By the end of troubleshooting, you should get 4 blocks : "FHSS_mod_64/8 and FHSS_demod_64/8" in your PC's GNUradio.
 
 ## Block Desciption :-
 1. FHSS_demod_64 : Block for FHSS and PM demodulation for 64 frequencies version 

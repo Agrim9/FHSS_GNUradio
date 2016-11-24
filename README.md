@@ -22,24 +22,25 @@ We've built blocks to send PM modulated waves over 8 and 64 different frequencie
 
 ## Block Desciption :-
 1.FHSS_demod_64 : Block for FHSS and PM demodulation for 64 frequencies version 
-  -Parameters: Sampling Rate 
-  -O/P : Final message signal 
-  -I/P : Modulated 64 frequency hopped PM wave
+  - Parameters: Sampling Rate 
+  - O/P : Final message signal 
+  - I/P : Modulated 64 frequency hopped PM wave
 2.FHSS_mod_64   : Block for FHSS and PM modulation for 64 frequencies version 
-  -Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
-  -O/P : Modulated PM wave hopped over 64 frequencies
-  -I/P : Message Signal
+  - Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
+  - O/P : Modulated PM wave hopped over 64 frequencies
+  - I/P : Message Signal
 3.FHSS_demod_8  : Block for FHSS and PM demodulation for 8 frequencies version 
-  -Parameters: Sampling Rate 
-  -O/P : Final message signal 
-  -I/P : Modulated 8 frequency hopped PM wave
+  - Parameters: Sampling Rate 
+  - O/P : Final message signal 
+  - I/P : Modulated 8 frequency hopped PM wave
 4.FHSS_mod_8    : Block for FHSS and PM demodulation for 8 frequencies version 
-  -Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
-  -O/P : Modulated PM wave hopped over 8 frequencies
-  -I/P : Message Signal
-
+  - Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
+  - O/P : Modulated PM wave hopped over 8 frequencies
+  - I/P : Message Signal
+ 
 ## GRC Files :-
--> You can directly run the GRC files in the repository, for some reference/example. 
+You can directly run the GRC files in the repository, for some reference/example. 
+
 1. 8mod_demod.grc : Simple modulator and demodulator for 8 frequencies version, you can observer hopping frequencies in QT GUI sink at end of modulator and final demodulated message at end of demodulator
 2. 64mod_demod.grc : The same modulator and demodulator but for 64 frequencies version
 3. multipath.grc : GRC file to view performance of FHSS in simulated multipath environment

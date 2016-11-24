@@ -21,19 +21,22 @@ We've built blocks to send PM modulated waves over 8 and 64 different frequencie
 -> If you've installed GNUradio directly from the git repository, this should suffice, but if not, you will have to do a little more to get the blocks on GNUradio. Please follow Troubleshooting steps mentioned at end. By the end of troubleshooting, you should get 4 blocks : "FHSS_mod_64/8 and FHSS_demod_64/8" in your PC's GNUradio.
 
 ## Block Desciption :-
-1.FHSS_demod_64 : Block for FHSS and PM demodulation for 64 frequencies version 
+1. FHSS_demod_64 : Block for FHSS and PM demodulation for 64 frequencies version 
   - Parameters: Sampling Rate 
   - O/P : Final message signal 
   - I/P : Modulated 64 frequency hopped PM wave
-2.FHSS_mod_64   : Block for FHSS and PM modulation for 64 frequencies version 
+ 
+2. FHSS_mod_64   : Block for FHSS and PM modulation for 64 frequencies version 
   - Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
   - O/P : Modulated PM wave hopped over 64 frequencies
   - I/P : Message Signal
-3.FHSS_demod_8  : Block for FHSS and PM demodulation for 8 frequencies version 
+  
+3. FHSS_demod_8  : Block for FHSS and PM demodulation for 8 frequencies version 
   - Parameters: Sampling Rate 
   - O/P : Final message signal 
   - I/P : Modulated 8 frequency hopped PM wave
-4.FHSS_mod_8    : Block for FHSS and PM demodulation for 8 frequencies version 
+  
+4. FHSS_mod_8    : Block for FHSS and PM demodulation for 8 frequencies version 
   - Parameters: Sampling Rate, Modulation Sensitivity of PM ( kp*m(t))
   - O/P : Modulated PM wave hopped over 8 frequencies
   - I/P : Message Signal

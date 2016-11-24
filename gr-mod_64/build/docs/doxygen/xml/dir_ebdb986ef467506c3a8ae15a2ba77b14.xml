@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_ebdb986ef467506c3a8ae15a2ba77b14" kind="dir">
+    <compoundname>mod_64</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/agrim/Desktop/EE_340_Submission/gr-mod_64/include/mod_64/"/>
+  </compounddef>
+</doxygen>

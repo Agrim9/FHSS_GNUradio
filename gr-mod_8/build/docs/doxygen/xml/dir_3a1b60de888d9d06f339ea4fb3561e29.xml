@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_3a1b60de888d9d06f339ea4fb3561e29" kind="dir">
+    <compoundname>mod_8</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/agrim/Desktop/EE_340_Submission/gr-mod_8/include/mod_8/"/>
+  </compounddef>
+</doxygen>

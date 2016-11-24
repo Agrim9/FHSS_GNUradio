@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio MOD_64 C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the MOD_64 GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+

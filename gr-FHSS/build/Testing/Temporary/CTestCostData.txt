@@ -1,3 +1,0 @@
-test_FHSS 1 0.0217149
-qa_freq_selector 1 1.72966
----

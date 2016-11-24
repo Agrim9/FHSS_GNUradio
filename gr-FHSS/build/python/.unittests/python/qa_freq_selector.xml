@@ -1,5 +1,0 @@
-<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.007">
-  <testcase classname="__main__.qa_freq_selector" name="test_001_t" time="0.0070"></testcase>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

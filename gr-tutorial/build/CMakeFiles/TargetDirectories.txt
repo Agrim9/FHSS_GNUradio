@@ -1,9 +1,0 @@
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/swig/CMakeFiles/_tutorial_swig.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/swig/CMakeFiles/_tutorial_swig_doc_tag.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/swig/CMakeFiles/_tutorial_swig_swig_tag.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/lib/CMakeFiles/gnuradio-tutorial.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/python/CMakeFiles/pygen_python_5f06f.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/swig/CMakeFiles/pygen_swig_c78d4.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/lib/CMakeFiles/test-tutorial.dir
-/home/harshvardhan/Desktop/commLab/gr-tutorial/build/CMakeFiles/uninstall.dir

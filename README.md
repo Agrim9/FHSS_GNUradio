@@ -1,6 +1,6 @@
 # FHSS_GNUradio
 Frequency Hopping Spread Spectrum (FHSS) is a method of transmitting radio signals by continuously switching ("hopping") over various frequencies dtermined by a pseudo random code. 
-To know more about it, you can refer to the ppt in the repository (FHSS_intro.ppt)
+To know more about it, you can refer to the ppt in the repository [FHSS_intro.ppt](https://drive.google.com/file/d/0B4muVK8fR0IdWVF0VkliTzBlSkk/view?usp=sharing)
 
 We've built blocks to send PM modulated waves over 8 and 64 different frequencies, according to a maximally generated pseduo random code.
 

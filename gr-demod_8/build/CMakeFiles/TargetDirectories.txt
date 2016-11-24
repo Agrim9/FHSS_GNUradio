@@ -1,4 +1,0 @@
-/home/agrim/Desktop/EE_340_Submission/gr-demod_8/build/docs/doxygen/CMakeFiles/doxygen_target.dir
-/home/agrim/Desktop/EE_340_Submission/gr-demod_8/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
-/home/agrim/Desktop/EE_340_Submission/gr-demod_8/build/python/CMakeFiles/pygen_python_63551.dir
-/home/agrim/Desktop/EE_340_Submission/gr-demod_8/build/CMakeFiles/uninstall.dir

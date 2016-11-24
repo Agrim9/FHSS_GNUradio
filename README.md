@@ -13,7 +13,7 @@ We've built blocks to send PM modulated waves over 8 and 64 different frequencie
   5. sudo apt-get install cppunit
   6. sudo apt-get install cppunit-dev
   7. sudo apt-get install gnuradio-dev
-  8. sudo apt-get install pyhton-sphinx
+  8. sudo apt-get install python-sphinx
 
 ## Running the code on your PC's GNUradio:-
 
@@ -44,10 +44,10 @@ We've built blocks to send PM modulated waves over 8 and 64 different frequencie
 ## GRC Files :-
 You can directly run the GRC files in the repository, for some reference/example. 
 
-1. 8mod_demod.grc : Simple modulator and demodulator for 8 frequencies version, you can observer hopping frequencies in QT GUI sink at end of modulator and final demodulated message at end of demodulator
-2. 64mod_demod.grc : The same modulator and demodulator but for 64 frequencies version
+1. mod_8.grc : Simple modulator and demodulator for 8 frequencies version, you can observer hopping frequencies in QT GUI sink at end of modulator and final demodulated message at end of demodulator
+2. mod_64.grc : The same modulator and demodulator but for 64 frequencies version
 3. multipath.grc : GRC file to view performance of FHSS in simulated multipath environment
-4. interfrence.grc : GRC file to view performance of FHSS due to in band interferance.
+4. interference.grc : GRC file to view performance of FHSS due to in band interferance.
 
 ## Troubleshooting :-
 

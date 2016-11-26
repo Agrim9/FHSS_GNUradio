@@ -59,6 +59,8 @@ Then you are good to go :)
 
 ## Useful Links for reference:-
 
-http://gnuradio.org/redmine/projects/gnuradio/wiki/Guided_Tutorial_GNU_Radio_in_Python
+- FHSS_demod.py is the python file containing the (now obsolete) self buffer version of the code. For documentation purposes
 
-http://gnuradio.org/redmine/projects/gnuradio/repository/entry/gr-blocks/python/blocks/qa_block_gateway.py
+- [Guided Tutorial for making a block in python](http://gnuradio.org/redmine/projects/gnuradio/wiki/Guided_Tutorial_GNU_Radio_in_Python)
+
+- [Adding a block to GNUradio](http://gnuradio.org/redmine/projects/gnuradio/repository/entry/gr-blocks/python/blocks/qa_block_gateway.py)
